@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33605" started-at="2020-02-24T00:59:09 CST" finished-at="2020-02-24T00:59:43 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33605" started-at="2020-02-24T00:59:09 CST" finished-at="2020-02-24T00:59:43 CST">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="validUserShouldBeAbleToLogin()[pri:0, instance:test.LoginTest@4b9e255]" name="validUserShouldBeAbleToLogin" duration-ms="10987" started-at="2020-02-24T00:59:09 CST" finished-at="2020-02-24T00:59:20 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeAbleToLogin -->
+      </class> <!-- test.LoginTest -->
+      <class name="test.PostingTitleContentTest">
+        <test-method status="PASS" signature="userShoulBeAbleToPost()[pri:0, instance:test.PostingTitleContentTest@5e57643e]" name="userShoulBeAbleToPost" duration-ms="22570" started-at="2020-02-24T00:59:20 CST" finished-at="2020-02-24T00:59:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShoulBeAbleToPost -->
+      </class> <!-- test.PostingTitleContentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
